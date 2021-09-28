@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ramziwebsite/static/css/main.935e3b2b.chunk.css",
-    "main.js": "/ramziwebsite/static/js/main.b6f8c633.chunk.js",
-    "main.js.map": "/ramziwebsite/static/js/main.b6f8c633.chunk.js.map",
+    "main.js": "/ramziwebsite/static/js/main.cd80424a.chunk.js",
+    "main.js.map": "/ramziwebsite/static/js/main.cd80424a.chunk.js.map",
     "runtime-main.js": "/ramziwebsite/static/js/runtime-main.1a9ce931.js",
     "runtime-main.js.map": "/ramziwebsite/static/js/runtime-main.1a9ce931.js.map",
-    "static/js/2.6050153e.chunk.js": "/ramziwebsite/static/js/2.6050153e.chunk.js",
-    "static/js/2.6050153e.chunk.js.map": "/ramziwebsite/static/js/2.6050153e.chunk.js.map",
+    "static/js/2.b6144d04.chunk.js": "/ramziwebsite/static/js/2.b6144d04.chunk.js",
+    "static/js/2.b6144d04.chunk.js.map": "/ramziwebsite/static/js/2.b6144d04.chunk.js.map",
     "index.html": "/ramziwebsite/index.html",
     "static/css/main.935e3b2b.chunk.css.map": "/ramziwebsite/static/css/main.935e3b2b.chunk.css.map",
-    "static/js/2.6050153e.chunk.js.LICENSE.txt": "/ramziwebsite/static/js/2.6050153e.chunk.js.LICENSE.txt",
+    "static/js/2.b6144d04.chunk.js.LICENSE.txt": "/ramziwebsite/static/js/2.b6144d04.chunk.js.LICENSE.txt",
     "static/media/svg-1.svg": "/ramziwebsite/static/media/svg-1.a4ef9b2c.svg",
     "static/media/svg-2.svg": "/ramziwebsite/static/media/svg-2.9c8db53b.svg",
     "static/media/svg-3.svg": "/ramziwebsite/static/media/svg-3.ab746491.svg",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1a9ce931.js",
-    "static/js/2.6050153e.chunk.js",
+    "static/js/2.b6144d04.chunk.js",
     "static/css/main.935e3b2b.chunk.css",
-    "static/js/main.b6f8c633.chunk.js"
+    "static/js/main.cd80424a.chunk.js"
   ]
 }

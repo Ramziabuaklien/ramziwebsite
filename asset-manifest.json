@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ramziwebsite/static/css/main.935e3b2b.chunk.css",
-    "main.js": "/ramziwebsite/static/js/main.ae7c113d.chunk.js",
-    "main.js.map": "/ramziwebsite/static/js/main.ae7c113d.chunk.js.map",
+    "main.js": "/ramziwebsite/static/js/main.9e081f4d.chunk.js",
+    "main.js.map": "/ramziwebsite/static/js/main.9e081f4d.chunk.js.map",
     "runtime-main.js": "/ramziwebsite/static/js/runtime-main.1a9ce931.js",
     "runtime-main.js.map": "/ramziwebsite/static/js/runtime-main.1a9ce931.js.map",
     "static/js/2.6050153e.chunk.js": "/ramziwebsite/static/js/2.6050153e.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.1a9ce931.js",
     "static/js/2.6050153e.chunk.js",
     "static/css/main.935e3b2b.chunk.css",
-    "static/js/main.ae7c113d.chunk.js"
+    "static/js/main.9e081f4d.chunk.js"
   ]
 }
